@@ -1,0 +1,13 @@
+// built-in type: number, string, boolean, void, undefined, null;
+var id = [1, 5, "ami"];
+var userId;
+var firstName;
+var lastName;
+var isActivated;
+userId = 101;
+firstName = "Nasiful";
+lastName = "islam";
+isActivated = true;
+var fullname = firstName.concat(lastName);
+console.log(userId, firstName, lastName, isActivated);
+console.log(fullname);
